@@ -2,6 +2,7 @@
     height: 100vh;
     width: 100%;
     background-image: url(https://gumlet.assettype.com/Prabhatkhabar/2024-02/1a319134-3e8f-4522-a384-e8ebf999d6e4/propose_day__1_.jpg);
-    background-size: contain;
+    background-size: 100%;
+    background-position: center;
     background-repeat: no-repeat;
 }
